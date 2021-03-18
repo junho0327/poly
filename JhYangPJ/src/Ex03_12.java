@@ -5,19 +5,19 @@ public class Ex03_12 {
 		char a, b, c, d, e;
 
 		a = 'A'; // 65
-		System.out.println("a : " + a + " | aÀÇ ¼ıÀÚ°ª: " + (int) a);
+		System.out.println("a : " + a + " | aê°’: " + (int) a);
 
 		b = 'a'; // 97
 		c = (char) (b + 1); // 97+1
-		System.out.println("b : " + b + " | bÀÇ ¼ıÀÚ°ª: " + (int) b);
-		System.out.println("c : " + c + " | cÀÇ ¼ıÀÚ°ª: " + (int) c);
+		System.out.println("b : " + b + " | bê°’ : " + (int) b);
+		System.out.println("c : " + c + " | cê°’ : " + (int) c);
 
 		d = 90;
 		System.out.println("d : " + d);
 
-		d = '°¡'; // 44032
+		d = 'ê°€'; // 44032
 		e = (char) (d + 1); // 44032+1
-		System.out.println("d : " + d + " | dÀÇ ¼ıÀÚ°ª: " + (int) d);
+		System.out.println("d : " + d + " | d ê°’: " + (int) d);
 		System.out.println("e : " + e + " ");
 	}
 
