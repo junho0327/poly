@@ -2,7 +2,7 @@
 public class first_day {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("오늘은 잔디심기 첫번째 날");
 
 	}
 
