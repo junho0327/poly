@@ -1,3 +1,4 @@
+package Java_exercise;
 
 public class Ex03_12 {
 
