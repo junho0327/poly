@@ -1,3 +1,4 @@
+package opentutorials;
 
 public class first_day {
 
