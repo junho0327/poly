@@ -7,7 +7,7 @@ public class Data_type2 {
 		
 		byte district = 1; //경기도
 		long district1 = 1;
-		byte population = 50000000;
+		int population = 50000000;
 		
 		long a1 = 2147483647;
 		long b = 1;
