@@ -5,7 +5,7 @@ public class Operator1 {
 	public static void main(String[] args) {
 		 // result 의 값은 3
         int result = 1 + 2;
-        System.out.println(result);
+        System.out.println(result);	
   
         // result 의 값은 2
         result = result - 1;
