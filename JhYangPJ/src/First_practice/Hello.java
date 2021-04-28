@@ -1,9 +1,10 @@
+package First_practice;
 
 public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		System.out.println("¾çÁØÈ£");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½È£");
 		
 	}
 	
